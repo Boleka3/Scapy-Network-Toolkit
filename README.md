@@ -1,4 +1,3 @@
-# Scapy-Network-Toolkit
 # 🕵️ Network Analysis Toolkit (Python + Scapy)
 
 This is a Python-based command-line network analysis tool built using [Scapy](https://scapy.net/). It provides functionality to scan subnets, analyze live packets, send custom packets, and measure basic network performance metrics such as latency, throughput, and jitter.
